@@ -1,0 +1,1 @@
+export const SET_WALLET_TYPES = 'SET_WALLET_TYPES';

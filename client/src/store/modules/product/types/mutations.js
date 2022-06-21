@@ -1,0 +1,6 @@
+export const SET_PRODUCT = 'SET_PRODUCT';
+export const SET_PRODUCTS = 'SET_PRODUCTS';
+export const SET_PRODUCTS_FOR_USER = 'SET_PRODUCTS_FOR_USER';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
